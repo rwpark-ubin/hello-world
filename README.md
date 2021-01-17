@@ -1,8 +1,8 @@
 # hello-world
 firtst-git
 
-My name is park rowhwon
-so do I 
+My name is park
+hope to contribute as contributor
 
-asdjasdf
+
 
